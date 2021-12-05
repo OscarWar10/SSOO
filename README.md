@@ -1,0 +1,2 @@
+# SSOO
+Repositorio prácticas SSOO
